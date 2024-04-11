@@ -1,0 +1,86 @@
+body {
+    background-color: black;
+    
+}
+
+header{
+    background-color: #7FFF00;
+    color: #fff;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    max-height: 80px;
+}  
+
+.tituloCabeçalho{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.divStatic{
+    background-color:black;
+    position: static;
+    padding: 0%;
+   
+}
+
+.tituloUm{
+    color: #fff;
+    font-family: arial;
+    font-size: 35px;
+    text-align: left;
+}
+
+.paragrafoUm{
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.primeiraLinha{
+    color: #c4ff8a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(10, 65, 1);
+    font-size: 33px;
+    border: 25px  solid black ;
+    align-items: center;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.segundaLinha{
+    color: #7FFF00;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    font-size: 23px;
+}
+
+.larger-table {
+    border-collapse: collapse;
+    align: center;
+    width: 70%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+td{
+    border: 1px solid #7FFF00;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ }
+
+
+ .menor div{
+    width: 100px;
+    margin: 0%;
+ }
