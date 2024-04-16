@@ -63,6 +63,13 @@ header img {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: black;
     font-size: 23px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.primeiraTabela{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .larger-table {
@@ -71,6 +78,8 @@ header img {
     width: 70%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 td{
@@ -83,4 +92,5 @@ td{
  .menor div{
     width: 100px;
     margin: 0%;
+    align-items: center;
  }
